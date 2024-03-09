@@ -1,0 +1,26 @@
+.root {
+  background-color: #83ceb7;
+}
+
+.brand {
+  display: flex;
+  font-size: 3rem;
+  color: #004736;
+  text-decoration: none;
+}
+
+.searchBar {
+  display: flex;
+}
+.searchButton {
+  margin-left: 10px;
+}
+
+.songList {
+  margin-top: 20px;
+}
+
+.songs {
+  max-width: fit-content !important;
+  margin: 0 30px;
+}
